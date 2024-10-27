@@ -5,8 +5,12 @@ public class Perfect {
 	public static void main(String[] args) {
 		
 		int n=7,sum=5;
+        int res=n-m;
 		
 		System.out.println(n-sum);
+        System.out.println(res);
+        System.out.println("good");
+        
 
 	}
 
