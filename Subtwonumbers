@@ -1,0 +1,13 @@
+package Basics;
+
+public class Perfect {
+	
+	public static void main(String[] args) {
+		
+		int n=7,sum=5;
+		
+		System.out.println(n-sum);
+
+	}
+
+}
